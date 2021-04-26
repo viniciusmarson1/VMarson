@@ -27,7 +27,6 @@ These are some of the technologies and tools that I work with:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  
-]
 
 <!---
 viniciusmarson1/viniciusmarson1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
