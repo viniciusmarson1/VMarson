@@ -2,7 +2,7 @@
 
  
 
-I'm Vinicius Marson, and I'm a Quality Assurance analys and I've been working in tech since 2015. I'm from Brazil.
+I'm Vinicius Marson, and I'm a Quality Assurance analyst and I've been working in tech since 2015. I'm from Brazil.
 
  
 
