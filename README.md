@@ -7,7 +7,7 @@ I'm Vinicius Marson, and I'm a Quality Assurance analys and I've been working in
  
 
 [![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-marson-nascimento-88430b10a/)](https://www.linkedin.com/in/vinicius-marson-nascimento-88430b10a/)
-/></a> <a href="https://www.instagram.com/v.marson_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&
+/></a> <a href="https://www.instagram.com/v.marson_/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
  
 
